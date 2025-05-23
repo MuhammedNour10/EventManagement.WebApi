@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0t2uriaHz3+oTwNdSTZvkEoYvUxln2NnhvylO0DOfCE=",
+  "Source": "EventManagement.WebApi",
+  "BasePath": "_content/EventManagement.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
